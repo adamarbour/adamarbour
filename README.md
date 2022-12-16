@@ -10,9 +10,9 @@ I am a person with many interests, ideas, and ambitions. My hero is "[me in 10 y
 
 `Lenovo` and `Apple` are my go-to companies. Many may not share my opinion, but `Lenovo` has undeniable reliability and maintenance capabilities. `Apple` just works... _with other `Apple` products_. I love to tinker and customize, but the OOTB (_out of the box_) experience is simple and streamlined.
 
-- <img height="20" width="20" src="https://unpkg.com/simple-icons@v8/icons/windows.svg" /> Lenovo ThinkStation P330 :office: `office` 
-- <img height="20" width="20" src="https://unpkg.com/simple-icons@v8/icons/apple.svg" /> MacBook Pro 14" M1 Max :house: `personal`
-- <img height="20" width="20" src="https://unpkg.com/simple-icons@v8/icons/archlinux.svg" /> Lenovo ThinkPad X1 Tablet Gen2 :airplane: `travel` _( Check out my [install/setup journey](https://adamarbour.github.io/arch-install-awesome/))_
+- <img height="20" width="20" src="./img/windows.svg" /> Lenovo ThinkStation P330 :office: `office` 
+- <img height="20" width="20" src="./img/apple.svg" /> MacBook Pro 14" M1 Max :house: `personal`
+- <img height="20" width="20" src="./img/archlinux.svg" /> Lenovo ThinkPad X1 Tablet Gen2 :airplane: `travel` _( Check out my [install/setup journey](https://adamarbour.github.io/arch-install-awesome/))_
 
 
 
@@ -20,9 +20,9 @@ I am a person with many interests, ideas, and ambitions. My hero is "[me in 10 y
 
 There are surprisingly many active Adam Arbours on the _#interwebs_, so I don't have a consistent handle across `Web2` and `Web3`. I also don't maintain the largest _social footprint_. You can find me at the links below:
 
-* <img height="20" width="20" src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" /> [@adam.arbour](https://www.instagram.com/adam.arbour)
-* <img height="20" width="20" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" /> [https://www.linkedin.com/in/adamarbour](https://www.linkedin.com/in/adamarbour)
-* <img height="20" width="20" src="https://unpkg.com/simple-icons@v8/icons/ethereum.svg" />adamarbour.eth
+* <img height="20" width="20" src="./img/instagram.svg" /> [@adam.arbour](https://www.instagram.com/adam.arbour)
+* <img height="20" width="20" src="./img/linkedin.svg" /> [https://www.linkedin.com/in/adamarbour](https://www.linkedin.com/in/adamarbour)
+* <img height="20" width="20" src="./img/ethereum.svg" />adamarbour.eth
 
 
 
