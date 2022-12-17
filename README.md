@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-My name is Adam Arbour. I grew up on a computer writing DOS commands and learning [Turbo C](https://en.wikipedia.org/wiki/Borland_Turbo_C) as a child, sometime between the release of Windows 1.0 and Windows 3.1.
+My name is Adam Arbour[^1]. I grew up on a computer writing DOS commands and learning [Turbo C](https://en.wikipedia.org/wiki/Borland_Turbo_C) as a child, sometime between the release of Windows 1.0 and Windows 3.1.
 
 I am a person with many interests, ideas, and ambitions. My hero is "[me in 10 years](https://medium.com/live-your-life-on-purpose/your-hero-should-be-your-10-year-self-in-the-future-matthew-mcconaughey-oscar-speech-27d57b5e3589)". Today, I mostly consult and help companies with `data strategy` and `digital transformation`. In my own time, I like to tinker and pursue goals and projects that align with my [ikigai](https://en.wikipedia.org/wiki/Ikigai).
 
-
+[^1]: :key: [B95D 4F27 EE97 5DD5 382B  B519 C6CA 4865 042F 558F](https://github.com/adamarbour/adamarbour/blob/main/me.pub)
 
 ## Interfaces💻
 
