@@ -12,7 +12,7 @@ I am a person with many interests, ideas, and ambitions. My hero is "[me in 10 y
 
 - <img height="20" width="20" src="./img/windows.svg" /> Lenovo ThinkStation P330 :office: `office` 
 - <img height="20" width="20" src="./img/apple.svg" /> MacBook Pro 14" M1 Max :house: `personal`
-- <img height="20" width="20" src="./img/archlinux.svg" /> Lenovo ThinkPad X1 Tablet Gen2 :airplane: `travel` _( Check out my [install/setup journey](https://adamarbour.github.io/arch-install-awesome/))_
+- <img height="20" width="20" src="./img/archlinux.svg" /> Lenovo ThinkPad X1 Tablet Gen2 :airplane: `travel` _( Check out my [install/setup journey]([https://adamarbour.github.io/arch-install-awesome/](https://adamarbour.github.io/into-the-void/)))_
 
 
 
