@@ -4,7 +4,7 @@ My name is Adam Arbour[^1]. I grew up on a computer writing DOS commands and lea
 
 I am a person with many interests, ideas, and ambitions. My hero is "[me in 10 years](https://medium.com/live-your-life-on-purpose/your-hero-should-be-your-10-year-self-in-the-future-matthew-mcconaughey-oscar-speech-27d57b5e3589)". Today, I mostly consult and help companies with `data strategy` and `digital transformation`. In my own time, I like to tinker and pursue goals and projects that align with my [ikigai](https://en.wikipedia.org/wiki/Ikigai).
 
-[^1]: :key: [B95D 4F27 EE97 5DD5 382B  B519 C6CA 4865 042F 558F](https://github.com/adamarbour/adamarbour/blob/main/me.pub)
+[^1]: :key: [6A6B 1893 393D EDAA 7025  4AC8 19F0 5983 253E C5DE](https://github.com/adamarbour/adamarbour/blob/main/me.pub)
 
 ## Interfaces💻
 
