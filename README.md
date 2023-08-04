@@ -10,8 +10,8 @@ I am a person with many interests, ideas, and ambitions. My hero is "[me in 10 y
 
 `Lenovo` and `Apple` are my go-to companies. Many may not share my opinion, but `Lenovo` has undeniable reliability and maintenance capabilities. `Apple` just works... _with other `Apple` products_. I love to tinker and customize, but the OOTB (_out of the box_) experience is simple and streamlined.
 
-- <img height="20" width="20" src="./img/linux.svg" /> Lenovo ThinkStation P330 :office: `office` 
-- <img height="20" width="20" src="./img/linux.svg" /> Lenovo ThinkPad Z13 OLED :airplane: `travel` _( Check out my [install/setup journey](https://adamarbour.github.io/into-the-void/))_
+- <img height="20" width="20" src="./img/proxmox.svg" /> Lenovo ThinkStation P330 :office: `office` 
+- <img height="20" width="20" src="./img/arch.svg" /> Lenovo ThinkPad Z13 OLED :airplane: `travel` _( Check out my [install/setup journey](https://adamarbour.github.io/into-the-void/))_
 
 
 
