@@ -7,12 +7,11 @@ I am a person with many interests, ideas, and ambitions. My hero is "[me in 10 y
 [^1]: :key: [6A6B 1893 393D EDAA 7025  4AC8 19F0 5983 253E C5DE](https://github.com/adamarbour/adamarbour/blob/main/me.pub)
 
 ## Interfaces💻
+Recently I've embarked on a journey of _technology minimalism_ and have been tearing myself away from the numerous devices _(read 2x iPads, 3x laptops, desktop, gaming devices, servers, phone, ereader ... gadgets galore)_ that I interface/tinker with on a daily basis. I've resolved to reduce my toys and will focus primarily on a small powerhorse 
 
-`Lenovo` and `Apple` are my go-to companies. Many may not share my opinion, but `Lenovo` has undeniable reliability and maintenance capabilities. `Apple` just works... _with other `Apple` products_. I love to tinker and customize, but the OOTB (_out of the box_) experience is simple and streamlined.
 
-- <img height="23" width="23" src="./img/proxmox.svg" /> Lenovo ThinkStation P330 :steam_locomotive: `homelab` 
-- <img height="20" width="20" src="./img/arch.svg" /> Lenovo ThinkPad Z13 (oled) :airplane: `primary`
-
+- <img height="20" width="20" src="./img/arch.svg" /> Chuwi Minibook X :airplane: `primary`
+- <img height="23" width="23" src="./img/proxmox.svg" /> AMD Threadripper... [custom liquid cooled](https://jmcustomized.com/) ... __coming soon__ :steam_locomotive: `homelab` 
 
 
 ## Connect 👨‍💻
