@@ -11,7 +11,7 @@ Recently I've embarked on a journey of _technology minimalism_ and have been tea
 
 
 - <img height="20" width="20" src="./img/arch.svg" /> Lenovo z13 (gen1) :airplane: `primary`
-- <img height="23" width="23" src="./img/proxmox.svg" /> AMD Threadripper... [custom liquid cooled](https://jmcustomized.com/) ... __coming soon__ :steam_locomotive: `homelab` 
+- <img height="23" width="23" src="./img/proxmox.svg" /> AMD ... [custom liquid cooled](https://jmcustomized.com/) ... __coming soon__ :steam_locomotive: `homelab` 
 
 
 ## Connect 👨‍💻
