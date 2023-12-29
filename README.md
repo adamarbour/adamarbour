@@ -10,10 +10,10 @@ I am a person with many interests, ideas, and ambitions. My hero is "[me in 10 y
 Recently I've embarked on a journey of _technology minimalism_ and have been tearing myself away from the numerous devices _(read 2x iPads, 3x laptops, desktop, gaming devices, servers, phone, ereader ... gadgets galore)_ that I interface/tinker with on a daily basis. I've resolved to reduce my toys and will focus primarily on a small powerhorse 
 
 
-- <img height="20" width="20" src="./img/arch.svg" /> Lenovo z13 (gen1) :airplane: `primary`
+- <img height="20" width="20" src="./img/arch.svg" /> Lenovo z13 (gen1)[^2] :airplane: `primary`
 - <img height="23" width="23" src="./img/proxmox.svg" /> AMD ... [custom liquid cooled](https://jmcustomized.com/) ... __coming soon__ :steam_locomotive: `homelab` 
 
-
+[^2]: Lenovo z13 field notes (Artix)
 ## Connect 👨‍💻
 
 There are surprisingly many active Adam Arbours on the _#interwebs_, so I don't have a consistent handle across `Web2` and `Web3`. I also don't maintain the largest _social footprint_. You can find me at the links below:
