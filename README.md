@@ -14,8 +14,7 @@ Recently I've embarked on a journey of _technology minimalism_ and have been tea
 - <img height="23" width="23" src="./img/proxmox.svg" /> AMD ... [custom liquid cooled](https://jmcustomized.com/) ... __coming soon__ :steam_locomotive: `homelab` 
 
 [^2]: [(immutable) Artix with astOS](https://gist.github.com/adamarbour/5cd52c236ad4f41e4184771390fa093c)
-
-[^3] Placeholder
+[^3]: Placeholder
 
 ## Connect 👨‍💻
 
