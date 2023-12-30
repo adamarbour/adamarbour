@@ -10,12 +10,12 @@ I am a person with many interests, ideas, and ambitions. My hero is "[me in 10 y
 Recently I've embarked on a journey of _technology minimalism_ and have been tearing myself away from the numerous devices _(read 2x iPads, 3x laptops, desktop, gaming devices, servers, phone, ereader ... gadgets galore)_ that I interface/tinker with on a daily basis. I've resolved to reduce my toys and will focus primarily on a small powerhorse 
 
 
-- <img height="20" width="20" src="./img/arch.svg" /> Lenovo z13 (gen1)[^2][^3] :airplane: `primary`
+- <img height="20" width="20" src="./img/arch.svg" /> Lenovo z13 (gen1)[^2] [^3] :airplane: `primary`
 - <img height="23" width="23" src="./img/proxmox.svg" /> AMD ... [custom liquid cooled](https://jmcustomized.com/) ... __coming soon__ :steam_locomotive: `homelab` 
 
 [^2]: [(immutable) Artix with astOS](https://gist.github.com/adamarbour/5cd52c236ad4f41e4184771390fa093c)
 
-[^3]" Placeholder
+[^3] Placeholder
 
 ## Connect 👨‍💻
 
