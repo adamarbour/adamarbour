@@ -11,9 +11,9 @@ Recently I've embarked on a journey of _technology minimalism_ and have been tea
 
 
 - <img height="20" width="20" src="./img/NixOS.svg" /> Lenovo Thinkpad z13 (gen 1) :airplane: `primary`
-- <img height="23" width="23" src="./img/NixOS.svg" /> AMD Ryzen 7 7800X3D / 48GB / Radeon 6750XT 12GB :video_game: `gaming`
-- <img height="23" width="23" src="./img/NixOS.svg" /> Intel Core i5-9600K / 64GB / Intel Arc A750 :house_with_garden: `homelab`
-- - <img height="23" width="23" src="./img/NixOS.svg" /> Intel Xeon E5-1650V3 / 128GB / Hetzner :office: `cloudlab`
+- <img height="20" width="20" src="./img/NixOS.svg" /> AMD Ryzen 7 7800X3D / 48GB / Radeon 6750XT 12GB :video_game: `gaming`
+- <img height="20" width="20" src="./img/NixOS.svg" /> Intel Core i5-9600K / 64GB / Intel Arc A750 :house_with_garden: `homelab`
+- <img height="20" width="20" src="./img/NixOS.svg" /> Intel Xeon E5-1650V3 / 128GB / Hetzner :office: `cloudlab`
 
 
 ## Connect 👨‍💻
