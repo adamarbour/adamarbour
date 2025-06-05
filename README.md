@@ -10,10 +10,8 @@ I am a person with many interests, ideas, and ambitions. My hero is "[me in 10 y
 Recently I've embarked on a journey of _technology minimalism_ and have been tearing myself away from the numerous devices _(read 2x iPads, 3x laptops, desktop, gaming devices, servers, phone, ereader ... gadgets galore)_ that I interface/tinker with on a daily basis. I've resolved to reduce my toys and will focus primarily on a small powerhorse 
 
 
-- <img height="20" width="20" src="./img/NixOS.svg" /> Lenovo Thinkpad z13 (gen 1) :airplane: `primary`
+- <img height="20" width="20" src="./img/NixOS.svg" /> Lenovo Thinkpad P14 (gen 5) / 96GB / RTX 500 ada :airplane: `primary`
 - <img height="20" width="20" src="./img/NixOS.svg" /> AMD Ryzen 7 7800X3D / 48GB / Radeon 6750XT 12GB :video_game: `gaming`
-- <img height="20" width="20" src="./img/NixOS.svg" /> Intel Core i5-9600K / 64GB / Intel Arc A750 :house_with_garden: `homelab`
-- <img height="20" width="20" src="./img/NixOS.svg" /> Intel Xeon E5-1650V3 / 128GB / Hetzner :office: `cloudlab`
 
 
 ## Connect 👨‍💻
