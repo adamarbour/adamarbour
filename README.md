@@ -7,7 +7,7 @@ I am a person with many interests, ideas, and ambitions. My hero is "[me in 10 y
 [^1]: :key: [29A9 DF0C 3B8F A0FF 8729  87CA C928 C5E3 6163 0F34](https://github.com/adamarbour/adamarbour/blob/main/me.pub)
 
 ## Interfaces💻
-Recently I've embarked on a journey of _technology minimalism_ and have been tearing myself away from the numerous devices _(read 2x iPads, 3x laptops, desktop, gaming devices, servers, phone, ereader ... gadgets galore)_ that I interface/tinker with on a daily basis. I've resolved to reduce my toys and will focus primarily on a small powerhorse 
+Recently I've embarked on a journey of _technology minimalism_ and have been tearing myself away from the numerous devices _(read 2x iPads, 3x laptops, desktop, gaming devices, servers, phone, ereader ... gadgets galore)_ that I interface/tinker with on a daily basis. I've resolved to reduce my toys and will focus primarily on 2 interfaced with a homelab as my remote power house. 
 
 
 - <img height="20" width="20" src="./img/NixOS.svg" /> Lenovo Thinkpad P14 (gen 5) / 96GB / RTX 500 ada :airplane: `primary`
