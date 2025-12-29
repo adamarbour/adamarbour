@@ -11,7 +11,7 @@ Recently I've embarked on a journey of _technology minimalism_ and have been tea
 
 
 - <img height="20" width="20" src="./img/NixOS.svg" /> Lenovo Thinkpad P14 (gen 5) / 96GB / RTX 500 ada :airplane: `primary`
-- <img height="20" width="20" src="./img/NixOS.svg" /> AMD Ryzen 7 7800X3D / 48GB / Radeon 6750XT 12GB :video_game: `gaming`
+- <img height="20" width="20" src="./img/NixOS.svg" /> AMD Ryzen 7 7800X3D / 48GB / Radeon RX9070 XT 16GB :video_game: `gaming`
 
 
 ## Connect 👨‍💻
